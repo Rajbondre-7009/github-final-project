@@ -1,0 +1,12 @@
+git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+git pull origin main
+Updating fe30ea1..35e6a8f
+Fast-forward
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+git merge bug-fix-typo
+Already up to date.
