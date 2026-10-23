@@ -1,5 +1,6 @@
 Raj Bondre@Rajlap MINGW64 ~/mcino-Introduction-to-Git-and-GitHub (main)
 $ notepad merge_branches
+curl -s -H "Accept: application/vnd.github+json" "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/12784"
 
 Raj Bondre@Rajlap MINGW64 ~/mcino-Introduction-to-Git-and-GitHub (main)
 $ git push -u origin bug-fix-typo
