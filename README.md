@@ -18,3 +18,4 @@ The calculated simple interest.
 ## Usage
 
 Run the `simple-interest.sh` script in a Bash terminal and enter the required values.
+Typo fix branch test.
