@@ -1,0 +1,4 @@
+Raj Bondre@Rajlap MINGW64 ~/mcino-Introduction-to-Git-and-GitHub (main)
+$ git branch -v
+  bug-fix-typo fe30ea1 Add forked-repo file with GitHub API response
+* main         ce3c149 Add pull request and merge evidence
